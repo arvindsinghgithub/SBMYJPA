@@ -8,7 +8,7 @@
 </head>
 <body>
 <br></br>
-<h1>Spring Boot + Web + Data JPA + MVC +Mysql +JSON </h1>
+<h1> Hello !!!! Spring Boot + Web + Data JPA + MVC +Mysql +JSON </h1>
 <br><b>URL:</b>   http://localhost:8080/home  <br>
 
 	<form action="addusers">
